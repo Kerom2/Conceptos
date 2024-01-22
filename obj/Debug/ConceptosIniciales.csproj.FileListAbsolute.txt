@@ -1,0 +1,30 @@
+E:\progra c#\ConceptosIniciales\bin\Debug\ConceptosIniciales.exe.config
+E:\progra c#\ConceptosIniciales\bin\Debug\ConceptosIniciales.exe
+E:\progra c#\ConceptosIniciales\bin\Debug\ConceptosIniciales.pdb
+E:\progra c#\ConceptosIniciales\obj\Debug\ConceptosIniciales.csproj.AssemblyReference.cache
+E:\progra c#\ConceptosIniciales\obj\Debug\ConceptosIniciales.formulario1.resources
+E:\progra c#\ConceptosIniciales\obj\Debug\ConceptosIniciales.Properties.Resources.resources
+E:\progra c#\ConceptosIniciales\obj\Debug\ConceptosIniciales.csproj.GenerateResource.cache
+E:\progra c#\ConceptosIniciales\obj\Debug\ConceptosIniciales.csproj.CoreCompileInputs.cache
+E:\progra c#\ConceptosIniciales\obj\Debug\ConceptosIniciales.exe
+E:\progra c#\ConceptosIniciales\obj\Debug\ConceptosIniciales.pdb
+E:\progra c#\ConceptosIniciales\obj\Debug\ConceptosIniciales.VistaControlNum.Form_ProcesoNum.resources
+E:\progra c#\ConceptosIniciales\obj\Debug\ConceptosIniciales.VistaControlOperaciones.Calculo.resources
+E:\progra c#\ConceptosIniciales\obj\Debug\ConceptosIniciales.VistaPrincipal.MenuP.resources
+E:\progra c#\ConceptosIniciales\obj\Debug\ConceptosIniciales.VistaControlCiclos.Form_ControlCiclos.resources
+E:\progra c#\ConceptosIniciales\obj\Debug\ConceptosIniciales.VistaOtrosObjetos.Facturador.resources
+C:\Users\lu514\OneDrive\Escritorio\Colegio\Cole 2023\progra c#\2 semestre\practicas en clase\ConceptosIniciales\bin\Debug\ConceptosIniciales.exe.config
+C:\Users\lu514\OneDrive\Escritorio\Colegio\Cole 2023\progra c#\2 semestre\practicas en clase\ConceptosIniciales\bin\Debug\ConceptosIniciales.exe
+C:\Users\lu514\OneDrive\Escritorio\Colegio\Cole 2023\progra c#\2 semestre\practicas en clase\ConceptosIniciales\bin\Debug\ConceptosIniciales.pdb
+C:\Users\lu514\OneDrive\Escritorio\Colegio\Cole 2023\progra c#\2 semestre\practicas en clase\ConceptosIniciales\obj\Debug\ConceptosIniciales.csproj.AssemblyReference.cache
+C:\Users\lu514\OneDrive\Escritorio\Colegio\Cole 2023\progra c#\2 semestre\practicas en clase\ConceptosIniciales\obj\Debug\ConceptosIniciales.formulario1.resources
+C:\Users\lu514\OneDrive\Escritorio\Colegio\Cole 2023\progra c#\2 semestre\practicas en clase\ConceptosIniciales\obj\Debug\ConceptosIniciales.Properties.Resources.resources
+C:\Users\lu514\OneDrive\Escritorio\Colegio\Cole 2023\progra c#\2 semestre\practicas en clase\ConceptosIniciales\obj\Debug\ConceptosIniciales.VistaControlCiclos.Form_ControlCiclos.resources
+C:\Users\lu514\OneDrive\Escritorio\Colegio\Cole 2023\progra c#\2 semestre\practicas en clase\ConceptosIniciales\obj\Debug\ConceptosIniciales.VistaControlNum.Form_ProcesoNum.resources
+C:\Users\lu514\OneDrive\Escritorio\Colegio\Cole 2023\progra c#\2 semestre\practicas en clase\ConceptosIniciales\obj\Debug\ConceptosIniciales.VistaControlOperaciones.Calculo.resources
+C:\Users\lu514\OneDrive\Escritorio\Colegio\Cole 2023\progra c#\2 semestre\practicas en clase\ConceptosIniciales\obj\Debug\ConceptosIniciales.VistaOtrosObjetos.Facturador.resources
+C:\Users\lu514\OneDrive\Escritorio\Colegio\Cole 2023\progra c#\2 semestre\practicas en clase\ConceptosIniciales\obj\Debug\ConceptosIniciales.VistaPrincipal.MenuP.resources
+C:\Users\lu514\OneDrive\Escritorio\Colegio\Cole 2023\progra c#\2 semestre\practicas en clase\ConceptosIniciales\obj\Debug\ConceptosIniciales.csproj.GenerateResource.cache
+C:\Users\lu514\OneDrive\Escritorio\Colegio\Cole 2023\progra c#\2 semestre\practicas en clase\ConceptosIniciales\obj\Debug\ConceptosIniciales.csproj.CoreCompileInputs.cache
+C:\Users\lu514\OneDrive\Escritorio\Colegio\Cole 2023\progra c#\2 semestre\practicas en clase\ConceptosIniciales\obj\Debug\ConceptosIniciales.exe
+C:\Users\lu514\OneDrive\Escritorio\Colegio\Cole 2023\progra c#\2 semestre\practicas en clase\ConceptosIniciales\obj\Debug\ConceptosIniciales.pdb
